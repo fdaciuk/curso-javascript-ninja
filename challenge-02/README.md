@@ -91,9 +91,14 @@ function doideira( a, b, c ){
 }
 
 // Invoque a função acima utilizando todas as possibilidades (com nenhum argumento, com um, com dois e com três.) Coloque um comentário de linha ao lado da função com o resultado de cada invocação.
+<<<<<<< HEAD
 doideira(); //false
 doideira(10); // 10 
 doideira( 10, 10 ) // 20 
 doideira(10, 10, 10) // 2 
 
 ```
+=======
+?
+```
+>>>>>>> 050735fbfe43f5636b1c89524b8775caeec445a5
